@@ -1,1 +1,5 @@
-# learn-scala-spark-basics
+# Learn Scala Spark Basics
+
+This course material 
+- briefly presents basic scala code
+

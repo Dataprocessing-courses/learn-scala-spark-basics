@@ -1,5 +1,5 @@
 # Learn Scala Spark Basics
 
-This course material 
-- briefly presents basic scala code
+This course material:
+- [briefly presents basic scala code](scalabasics.scala)
 
